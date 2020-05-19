@@ -8,6 +8,8 @@
 <body>
     <?php
     echo "Hallo Dunia";
+    <br>
+    echo "Gimana kabarmu ?";
     ?>
 </body>
 </html>
