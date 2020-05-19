@@ -10,6 +10,8 @@
     echo "Hallo Dunia";
     <br>
     echo "Gimana kabarmu ?";
+    <br>
+    echo "Baik kan ?";
     ?>
 </body>
 </html>
